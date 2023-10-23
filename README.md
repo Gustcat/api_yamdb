@@ -48,5 +48,7 @@ python3 manage.py runserver
 
 ### Авторы
 Alex Alekhov https://github.com/inrag3
+
 Ekaterina Gustova https://github.com/Gustcat
+
 Кирилл Антонов https://github.com/Kirill-Antonov91
