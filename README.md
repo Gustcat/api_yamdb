@@ -1,9 +1,13 @@
+## api_yamdb
+### Описание проекта
+Проект, основанный на Django REST API, позволяет получать информацию в формате JSON о произведениях, фильтрации по жанру или категории. Авторизованные пользователи могут оценивать, оставлять отзывы и комментарии к отзывам.
+
 ### Как запустить проект:
 
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/inrag3/api_yamdb.git
+git clone https://github.com/Gustcat/api_yamdb.git
 ```
 
 ```
@@ -41,3 +45,8 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
+
+### Авторы
+Alex Alekhov https://github.com/inrag3
+Ekaterina Gustova https://github.com/Gustcat
+Кирилл Антонов https://github.com/Kirill-Antonov91
